@@ -75,7 +75,8 @@ PROGRAM:
 
 Output:
 
-![logic diagram](https://user-images.githubusercontent.com/113497481/231699231-ed9cc684-64d9-4084-8bec-e952910bf767.jpeg)
+![logic diagram2](https://user-images.githubusercontent.com/113497481/231699953-d755a31d-2e2b-42bf-8913-b4c27a13db4b.jpeg)
+
 
 
 
