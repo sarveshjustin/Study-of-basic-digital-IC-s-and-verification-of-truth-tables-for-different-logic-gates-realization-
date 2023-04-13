@@ -59,7 +59,7 @@ If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 
 # program:
-'''
+```
 module ex1(a,b,y1,y2,y3,y4,y5,y6,y7);
 input a,b;
 output y1,y2,y3,y4,y5,y6,y7;
@@ -71,7 +71,7 @@ nand (y5,a,b);
 nor (y6,a,b);
 xnor (y7,a,b);
 endmodul
-'''
+```
 
 /*
 
