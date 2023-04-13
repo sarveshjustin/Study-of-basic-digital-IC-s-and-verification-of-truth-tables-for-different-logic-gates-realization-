@@ -74,8 +74,6 @@ endmodul
 ```
 
 /*
-
-Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by:sarvesh.s
 RegisterNumber: 212222230135
 */
