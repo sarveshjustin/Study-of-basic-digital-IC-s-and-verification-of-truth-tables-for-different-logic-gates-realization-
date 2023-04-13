@@ -86,18 +86,18 @@ RegisterNumber: 212222230135
 
 
 LOGIC SYMBOL AND TRUTH TABLE:
-```
+
 ![logic symbol](https://user-images.githubusercontent.com/113497481/231697173-ae1fc9db-8b4b-4308-9f75-4803233bf269.jpeg)
-```
+
 
 # PROGRAM:
-```
+
 ![program](https://user-images.githubusercontent.com/113497481/231697254-e0912f75-243d-4c81-a3ea-0f1114dd8b70.jpeg)
-```
+
 # Output:
-```
+
 ![logic diagram2](https://user-images.githubusercontent.com/113497481/231699953-d755a31d-2e2b-42bf-8913-b4c27a13db4b.jpeg)
-```
+
 
 
 
